@@ -38,4 +38,20 @@
   * mvn deploy Lleva el jar a nuestro servidor de jars. Queda "visible" para otros proyectos maven en otros ordenadores. Este comando necesita que a maven se le haya indicado       dónde está dicho servidor de jars.
   * mvn javadoc:javadoc Genera la documentación javadoc de nuestro proyecto.
   * mvn site Genera documentación html del proyecto. Por supuesto, necesitamos haber escrito en determinados ficheros el contenido de esa documentación.
-*s
+  
+* Ejecutar desde linea de comandos
+  ```
+  mvn exec:java -Dexec.mainClass="edu.eci.cvds.App"
+  ```
+  ![image](https://user-images.githubusercontent.com/98135902/152022117-ba4bf557-ab93-4489-9d9d-cc59842b4bb4.png)
+
+  * Buscar cómo enviar parámetros al plugin "exec".
+  * Ejecutar nuevamente la clase desde línea de comandos y verificar la salida: Hello World!
+    ![image](https://user-images.githubusercontent.com/98135902/152022587-b36ab999-6439-4de7-bc95-25b5e9e8d988.png)
+
+  * Ejecutar la clase desde línea de comandos enviando su nombre como parámetro y verificar la salida. Ej: Hello Pepito!
+    ![image](https://user-images.githubusercontent.com/98135902/152022800-a56a150b-69cc-4092-8946-a6b42d60624d.png)
+
+  * Ejecutar nuevamente y verificar la salida en consola. Ej: Hello Pepito Perez!
+    ![image](https://user-images.githubusercontent.com/98135902/152022850-48bc3422-f480-4ae8-a6d3-de755cba2ba5.png)
+
