@@ -9,6 +9,8 @@
   ```
   mvn archetype:generate -DgroupId=edu.eci.cvds -DartifactId=Patterns -DarchetypeArtifactId=maven-archetype-quickstart
   ```
+  ![image](https://user-images.githubusercontent.com/98135902/152023304-2a876161-bcd5-4500-9ce2-0adf7a8a948b.png)
+
 * Para ver el conjunto de archivos y directorios creados por el comando mvn ejecute el comando tree.
   
   ![image](https://user-images.githubusercontent.com/98135902/152020192-d663ad7c-4314-47ba-979a-a6b04a77e39a.png)
@@ -54,4 +56,6 @@
 
   * Ejecutar nuevamente y verificar la salida en consola. Ej: Hello Pepito Perez!
     ![image](https://user-images.githubusercontent.com/98135902/152022850-48bc3422-f480-4ae8-a6d3-de755cba2ba5.png)
+    
+ ### HACER EL ESQUELETO DE LA APLICACION
 
