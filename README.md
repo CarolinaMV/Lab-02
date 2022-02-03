@@ -62,8 +62,17 @@
     
  ### HACER EL ESQUELETO DE LA APLICACION
  
+  ![compile](https://user-images.githubusercontent.com/79550161/152276014-24ecd117-83ea-4ab0-ad15-fce523f6c762.JPG)
+  
   * Sin parámetros
+  ![sin](https://user-images.githubusercontent.com/79550161/152276080-2255dadc-d229-46cb-a37a-5962708be300.JPG)
+
   * Parámetro: qwerty
+  ![mal](https://user-images.githubusercontent.com/79550161/152276178-79e45f45-f295-47ec-b89d-6a4be4dda175.JPG)
+
   * Parámetro: pentagon
+  ![noMayusculas](https://user-images.githubusercontent.com/79550161/152276224-4a362acf-0d11-4e86-8e3e-b2620f1ff375.JPG)
+  
   * Parámetro Hexagon
+  ![bien](https://user-images.githubusercontent.com/79550161/152276274-a157fd9c-b6b7-40a0-bdb5-e74fb5e841d4.JPG)
 
