@@ -61,4 +61,9 @@
     ![image](https://user-images.githubusercontent.com/98135902/152022850-48bc3422-f480-4ae8-a6d3-de755cba2ba5.png)
     
  ### HACER EL ESQUELETO DE LA APLICACION
+ 
+  * Sin parámetros
+  * Parámetro: qwerty
+  * Parámetro: pentagon
+  * Parámetro Hexagon
 
