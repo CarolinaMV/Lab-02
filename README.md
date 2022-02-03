@@ -48,6 +48,9 @@
   ![image](https://user-images.githubusercontent.com/98135902/152022117-ba4bf557-ab93-4489-9d9d-cc59842b4bb4.png)
 
   * Buscar cómo enviar parámetros al plugin "exec".
+    ```
+    mvn exec:java -Dexec.mainClass="com.vineetmanohar.module.Main" -Dexec.args="arg0 arg1 arg2" 
+    ```
   * Ejecutar nuevamente la clase desde línea de comandos y verificar la salida: Hello World!
     ![image](https://user-images.githubusercontent.com/98135902/152022587-b36ab999-6439-4de7-bc95-25b5e9e8d988.png)
 
