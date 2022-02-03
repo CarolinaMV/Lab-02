@@ -75,4 +75,8 @@
   
   * Parámetro Hexagon
   ![bien](https://user-images.githubusercontent.com/79550161/152276274-a157fd9c-b6b7-40a0-bdb5-e74fb5e841d4.JPG)
+  
+  ### ¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
+  Todos se ejecutan correctamente, el único que no funciona correctamente es el pentagon, ya que por las indicaciones nos debería mostrar
+  que es una figura con cinco lados, pero debido a que en los posibles casos la primera letra de cada uno esta con mayúscula, no lo identifica.
 
